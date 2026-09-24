@@ -508,7 +508,7 @@ It provides a simple platform for understanding the basic workflow of an ATM and
 
 **Project Name:** Python Vault: CLI Automated ATM & Bank Account Simulator
 
-**Project Type:** Group Project – 2
+**Project Type:** Group Project 
 
 **Team Size:** 2 Members
 
