@@ -418,42 +418,6 @@ This allows account data to remain available even after the program is closed.
 
 ---
 
-## 👥 Team Contribution
-
-### Member 1 – Account & Authentication Module
-
-Responsibilities:
-
-* Account creation
-* Account number generation
-* Login authentication
-* PIN management
-* JSON data storage
-
-### Member 2 – ATM & Transaction Module
-
-Responsibilities:
-
-* ATM menu
-* Balance checking
-* Deposit
-* Withdrawal
-* Money transfer
-* Transaction history
-* Input validation
-
-### Joint Responsibilities
-
-Both members:
-
-* Integrated the modules.
-* Tested the complete application.
-* Fixed errors and bugs.
-* Prepared project documentation.
-* Prepared the project presentation.
-
----
-
 ## ✅ Advantages
 
 * Simple and easy-to-use CLI interface.
@@ -501,22 +465,3 @@ For a production banking application, sensitive information such as PINs must no
 The project combines **Object-Oriented Programming, functions, file handling, JSON, exception handling, authentication, and transaction management** into one practical application.
 
 It provides a simple platform for understanding the basic workflow of an ATM and banking system while demonstrating fundamental Python programming concepts.
-
----
-
-## 👨‍💻 Project Information
-
-**Project Name:** Python Vault: CLI Automated ATM & Bank Account Simulator
-
-**Project Type:** Group Project 
-
-**Team Size:** 2 Members
-
-**Programming Language:** Python
-
-**Storage:** JSON
-
-**Interface:** Command Line Interface (CLI)
-
-**Status:** Completed / In Development
-
